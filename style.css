@@ -1,0 +1,192 @@
+
+body {
+    
+    /* background: linear-gradient(90deg, rgba(225,225,227,1) 0%, rgba(176,153,232,1) 30%,  rgba(111,102,227,1)60%, rgb(105, 90, 140) 100%); */
+    /* background: linear-gradient(90deg, rgb(172, 151, 161) 0%, rgb(164, 140, 176) 30%,  rgb(148, 128, 164)60%, rgb(141, 114, 176) 100%); */
+    background: linear-gradient(to right, rgb(250, 249, 249) 0%, rgb(248, 248, 248) 30%,  rgb(247, 247, 247)50%, rgb(252, 251, 251) 100%);
+    width: 94%;
+	margin: 10px auto;
+    padding-bottom: auto;
+    /* background-color: rgb(215, 215, 215); */
+    font-family: 'EB Garamond', serif;
+    /* position: relative;  */
+    /* padding-top: 70px; */
+}
+
+
+.navbar {
+    /* background: linear-gradient(90deg, rgba(225,225,227,1) 0%, rgba(176,153,232,1) 30%,  rgba(111,102,227,1)60%, rgb(105, 90, 140) 100%); */
+    background: linear-gradient(90deg, rgb(26, 26, 26) 0%, rgb(10, 10, 10) 60%,  rgb(8, 8, 8)50%, rgb(7, 7, 7) 100%);
+    /* padding-bottom: 10px; */
+    /*margin-bottom:10px;
+    /* height: 40px;  */
+    /* border: 2px solid black; */
+}
+
+
+   .nav-link {
+    color: whitesmoke !important;
+    font-size: 1.2em !important;
+}
+
+#headerbg {
+    border: .05rem groove;
+    border-color: rgba(248, 248, 248, 0.75);
+    font-size:large;
+    text-align: center;
+    margin-top: 10px;
+    text-shadow: 3px 3px 3px rgba(13, 13, 14, 0.18); 
+    width:100%;
+    /* background: radial-gradient(circle, rgba(204,204,222,1) 0%, rgba(162,102,185,1) 67%, rgba(111,102,227,1) 100%); */
+    /* background: radial-gradient(circle, rgb(176, 166, 223) 0%, rgba(168,192,255,1) 100%, rgb(154, 169, 206) 100%); */
+   /* background: radial-gradient(circle, rgb(248, 248, 248) 0%, rgb(203, 203, 204) 30%,  rgb(197, 197, 197)50%, rgb(145, 144, 144) 100%);*/
+    background: white
+    /* background : linear-gradient(to right, rgb(146, 126, 155) 0%, rgb(196, 187, 206)); */
+    
+   
+    /* padding-right: 0.5mm; */
+/* width: 101.5%; */
+    
+}
+
+#headerbg img {
+    height: 160px;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    
+}
+
+#skil {
+    
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 3px 3px 3px rgba(12, 12, 12, 0.18);
+}
+
+#Education {
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 3px 3px 3px rgba(3, 3, 3, 0.18);
+}
+
+#Experience {
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 3px 3px 3px rgba(3, 3, 3, 0.18);
+}
+
+#Portfolio {
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 3px 3px 3px rgba(3, 3, 3, 0.18);
+}
+
+#skills {
+    text-align: center;
+    
+}
+
+#edu {
+    text-align: center;
+
+}
+#expe {
+    text-align: center;
+
+}
+h4 {
+    padding-bottom: 5px;
+    text-shadow: 3px 3px 3px rgba(7, 7, 7, 0.18);
+}
+
+h5 {
+    text-shadow: 3px 3px 3px rgba(5, 5, 5, 0.18);
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgb(252, 250, 250) 0%, rgb(211, 213, 214) 30%,  rgb(180, 181, 182)50%, rgb(13, 13, 14) 100%);
+}
+
+/* .container {
+    padding-right: 1px;
+    padding-left: 1px;
+    margin-right: auto;
+    margin-left: auto;
+  } */
+
+
+
+
+#edu img{
+    
+    margin-right: 20px;
+    
+}
+
+/* .header.h3 {
+    height: 80%;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 0px;
+} */
+
+/* Single-direction drop shadow */
+
+hr {
+
+    height: 9px;
+    border: 0;
+    box-shadow: inset 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+    width: 1000px;
+    padding-bottom: 2px;
+    margin-bottom: 6px;
+    margin-top: 10px;
+}
+    
+
+ul li i {
+    font-size: 25px;
+}
+/* 
+ul {
+    padding-top: 5px;
+} */
+
+
+/* #mycarousel.carousel.slide {
+    width: 500px; 
+    max-height: 200px; 
+    margin-top: 10px;
+    width: 500px; 
+   } */
+
+   .list-group li {
+       /* align-items: center; */
+    border: none;
+    background: none;
+    padding-bottom: 20px;
+    /* margin-top: 1px; */
+}
+
+.popover {
+    background: rgb(250, 249, 250);
+    font-family: 'EB Garamond', serif;
+}
+
+
+
+#readme  {
+
+    margin-left: 40px;
+    background : linear-gradient(to right,rgb(246, 246, 248), rgb(66, 66, 66));
+    border: none;
+    font-size: medium;
+    color: black;
+  }
+
+
